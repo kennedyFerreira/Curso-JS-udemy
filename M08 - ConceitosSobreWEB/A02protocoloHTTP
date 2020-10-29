@@ -1,0 +1,14 @@
+Hyper Text Tranfer Protocol (HTTP):
+O Hyper Text e um texto que contem texto como referencias linkadas.
+Documentos em HTML.
+
+Caracteriacas:
+Pertence a camada de Aplicacao
+E um Protocolo Stateless... 
+E um Protocolo Client-Servidor...
+
+Fluxo de conexao HTTP...
+Metodos do HTTP:
+(GET e POST sao os principais), PUT, DELETE, TRACE, OPTIONS, CONNECT, HEAD.
+
+Grupos de status HTTP...
