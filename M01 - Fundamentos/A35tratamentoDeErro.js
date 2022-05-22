@@ -1,9 +1,14 @@
 //Palavras reservadas para verificaçao de Erro sao: 'try', 'catch', 'throw'.
 function tratarErroELancar(erro) {
+    let id
+    if (erro.name != 'TypeErro') {
+       id = 1
+    }
     throw {
         nome: erro.name,
         msg: erro.message,
-        date: new Date
+        date: new Date,
+        id: id
     }
 } 
 function imprimirGritando(obj) {

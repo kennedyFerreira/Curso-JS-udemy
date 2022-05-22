@@ -1,6 +1,6 @@
 //Par nome/valor em constextos diferentes.
 const saudacao = 'opa' /*Contexto lexico 1(e o local onde sua variavel foi definida fisicamente dentro do 
-codigo.) e nesse caso o constextoe dentro do aruqivo 'A22parNomexValor'.*/
+codigo.) e nesse caso o constexto e dentro do aruqivo 'A22parNomexValor'.*/
 
 function exec(){
     const saudacao = 'fala' //Contexto lexico. O cotexto esta dentro da funcao do arquivo 'A22parNomexValor'.

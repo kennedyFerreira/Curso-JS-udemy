@@ -1,5 +1,5 @@
 const imprimirResultado = function (nota) {
- switch (Math.floor(nota)) { /*Diferente do if que o valor passado e representado por true or false, no switch
+ switch (nota) { /*Diferente do if que o valor passado e representado por true or false, no switch
 o valor pode ser um Number, string entre outros*/
     case 10:
     case 9:

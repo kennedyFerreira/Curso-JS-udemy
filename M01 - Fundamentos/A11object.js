@@ -11,6 +11,4 @@ const prod2 = {
         desocnto: '10%'
     }
 } 
-console.log(prod2)//Criando objetos de formas aninhadas, um objeto dentro de outro objeto
-
-
+console.log(prod2)//Criando objetos de formas aninhadas, um objeto dentro de outro objeto.

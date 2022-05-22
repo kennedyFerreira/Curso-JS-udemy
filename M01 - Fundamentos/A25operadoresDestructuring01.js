@@ -2,6 +2,7 @@
 
 const pessoa = {
     nome: 'kennedy',
+    sobrenome: 'ferreira',
     idade: 25,
     endereco: {
         logradouro: 'rua jose carlos',
